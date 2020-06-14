@@ -23,6 +23,9 @@
  *
  **************************************************************************/
 
+#include <QEvent>
+#include <QUrl>
+#include <QDataStream>
 #include <QColor>
 #include <QFont>
 #include <QLocale>
